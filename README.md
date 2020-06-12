@@ -1,6 +1,8 @@
 # Sentiment-Analysis-of-Twitter-Account
 On this repositories i am create a sentiment analysis of twitter account's tweets. Here i am use below python library.
 
+textblob are get Polarity and Subjectivity of each tweet, then you should will have classify the tweet of **positive, negative of neutral.**
+
 # Dependentias
 ```python
 import pandas as pd
@@ -12,8 +14,12 @@ import seaborn as sns
 import re 
 import matplotlib.pyplot as plt
 ```
+### Application
+Ckeck out Twitter Sentiment Analysis on python **GUI** App :point_right: [click here](https://github.com/yogeshnile/Twitter-Sentiment-Analysis-on-Python-GUI)
 
-textblob are get Polarity and Subjectivity of each tweet, then you should will have classify the tweet of **positive, negative of neutral.**
+Ckeck out Twitter Sentiment Analysis on python **Flask** App :point_right: [click here](https://github.com/yogeshnile/Twitter-Sentiment-Analysis-on-Flask-App)
+
+## ScreenShot
 
 <a href="https://imgur.com/VN0wEI7"><img src="https://i.imgur.com/VN0wEI7.png" title="source: imgur.com" /></a>
 
