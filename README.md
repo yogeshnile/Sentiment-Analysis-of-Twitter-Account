@@ -1,14 +1,16 @@
 # Sentiment-Analysis-of-Twitter-Account
-On this repositories i am create a sentiment analysis of twitter account's tweets. Here i am use below python library
-```sh
-pip install pandas
-pip install numpy
-pip install seaborn
-pip install matplotlib
-pip install tweepy
-pip install textblob
-pip install wordcloud
-pip install re
+On this repositories i am create a sentiment analysis of twitter account's tweets. Here i am use below python library.
+
+# Dependentias
+```python
+import pandas as pd
+import numpy as np
+import tweepy 
+from textblob import TextBlob
+from wordcloud import WordCloud
+import seaborn as sns
+import re 
+import matplotlib.pyplot as plt
 ```
 
 textblob are get Polarity and Subjectivity of each tweet, then you should will have classify the tweet of **positive, negative of neutral.**
