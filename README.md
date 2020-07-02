@@ -6,17 +6,11 @@ On this repositories i am create a sentiment analysis of twitter account's tweet
 
 textblob are get Polarity and Subjectivity of each tweet, then you should will have classify the tweet of **positive, negative of neutral.**
 
-# Dependentias :warning:
-```python
-import pandas as pd
-import numpy as np
-import tweepy 
-from textblob import TextBlob
-from wordcloud import WordCloud
-import seaborn as sns
-import re 
-import matplotlib.pyplot as plt
-```
+## Technology used in Project :hotsprings:
+
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">      <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/tweepy.webp" width="200">     <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/textblob.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/wordcloud.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/seaborn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="300">
+
+
 ### Application :loudspeaker:
 Ckeck out Twitter Sentiment Analysis on python **GUI** App :point_right: [click here](https://github.com/yogeshnile/Twitter-Sentiment-Analysis-on-Python-GUI)
 
